@@ -18,7 +18,7 @@ In this repository I will add all book, web pages, notes and other information w
 
 ### Web Pages
 * [Maui Administration](https://www.ch.cam.ac.uk/computing/maui-administration)
-* [Cluster Handbook] (https://en.wikibooks.org/wiki/Cluster-Handbook#What_is_Qlustar?)
+* [Cluster Handbook](https://en.wikibooks.org/wiki/Cluster-Handbook#What_is_Qlustar?)
 
 
 ### Notes
